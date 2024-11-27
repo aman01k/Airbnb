@@ -1,4 +1,4 @@
-@type {import('next').NextConfig} 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     remotePatterns: [
@@ -8,7 +8,7 @@ const nextConfig = {
         port: "",
       },
       {
-        hostname: "eensqzgsmxkneygkkxae.supabase.co",
+        hostname: "glvmmupiqwlmhicmggqp.supabase.co",
         protocol: "https",
         port: "",
       },
